@@ -9,8 +9,8 @@ Proyecto Final – Proyecto Cloud Integral · Cloud Computing · UdeA 2026.
 | Fase | Contenido | Estado |
 |---|---|---|
 | 0 | Estructura del repo, `.gitignore`, documentación base | Hecha |
-| 1 | Infraestructura base (VPC, S3, CloudFront, DynamoDB) | Escrita, pendiente de `terraform apply` |
-| 2 | Backend (lógica común lista y probada; handlers pendientes) | En curso |
+| 1 | Infraestructura base (VPC, S3, CloudFront, DynamoDB) | Desplegada |
+| 2 | Backend (lógica, handlers, IAM, Lambda, API Gateway, Scheduler) | Escrita y probada en local; pendiente de `terraform apply` |
 | 3–7 | Frontend, ranking, observabilidad, costos, documento y video | Pendiente |
 
 El plan completo está en `PLAN_IMPLEMENTACION_PARLACHE_DEL_DIA.md`.
