@@ -1,0 +1,22 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+*.tfvars
+!*.tfvars.example
+infra/terraform/build/
+crash.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Secretos y entorno
+.env
+.env.*
+
+# Artefactos
+*.zip
+.DS_Store
