@@ -1,139 +1,11 @@
 [
   {
-    "word": "chepa",
-    "display": "chepa",
-    "meaning": "Suerte favorable o acierto casual (variantes: chepón, chepudo).",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "SciELO / Wikcionario"
-  },
-  {
-    "word": "herpo",
-    "display": "herpo",
-    "meaning": "Galleta cuadrada rellena de bocadillo de guayaba y arequipe.",
-    "example": "Se interna por calles del centro, en medio de los carritos de las vendedoras ambulantes que ofrecen herpo y bocadillo de guayaba.",
-    "region": "Colombia (uso general)",
-    "source": "Instituto Caro y Cuervo (Guía DiCol)"
-  },
-  {
-    "word": "jodon",
-    "display": "jodón",
-    "meaning": "Persona que molesta o fastidia mucho.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "SciELO / Diccionario de la Lengua Española"
-  },
-  {
-    "word": "jurgo",
-    "display": "jurgo",
-    "meaning": "Cantidad excesiva o muy grande de algo.",
-    "example": "Imagínense que le pidió, como dice él, un jurgo de plata por poner unas cámaras de video por todo el conjunto.",
-    "region": "Colombia (uso general)",
-    "source": "Instituto Caro y Cuervo (Afiches DiCol)"
-  },
-  {
-    "word": "locha",
-    "display": "locha",
-    "meaning": "Pereza, inactividad o falta de ánimo para hacer algo.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "Instituto Caro y Cuervo / Radio Nacional"
-  },
-  {
-    "word": "oreja",
-    "display": "oreja",
-    "meaning": "Desvío curvo de un puente vehicular para tomar otra dirección; en 'parar oreja', escuchar con atención.",
-    "example": "Nuestro bendito Gabo desde niño se la pasó parando la oreja.",
-    "region": "Colombia (uso general)",
-    "source": "Instituto Caro y Cuervo (Guía DiCol)"
-  },
-  {
     "word": "abeja",
     "display": "abeja",
     "meaning": "Persona muy viva, lista, audaz o aprovechada.",
-    "example": "",
+    "example": "Ese pelao es muy abeja, siempre busca cómo sacar ventaja en cada negocio.",
     "region": "Colombia (uso general / Valle / Antioquia)",
     "source": "Wikcionario / Diccionario Caleño"
-  },
-  {
-    "word": "arepa",
-    "display": "arepa",
-    "meaning": "1. Tortilla típica de maíz. 2. Suerte o fortuna casual.",
-    "example": "Hizo ese gol de pura arepa.",
-    "region": "Colombia (uso general)",
-    "source": "Wikcionario (Colombianismos)"
-  },
-  {
-    "word": "avion",
-    "display": "avión",
-    "meaning": "Persona astuta, sagaz o avispada (en femenino 'aviona' también se usa despectivamente como traidora).",
-    "example": "Tenga cuidado con ese tipo que es muy avión haciendo negocios.",
-    "region": "Colombia (uso general)",
-    "source": "Wikcionario (Colombianismos)"
-  },
-  {
-    "word": "bagre",
-    "display": "bagre",
-    "meaning": "1. Pez de río. 2. Calificativo despectivo para una persona poco agraciada o mal arreglada.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "Wikcionario / DanceFree"
-  },
-  {
-    "word": "birra",
-    "display": "birra",
-    "meaning": "Cerveza.",
-    "example": "",
-    "region": "Colombia (uso general / Valle del Cauca)",
-    "source": "Wikcionario / Diccionario Caleño"
-  },
-  {
-    "word": "chulo",
-    "display": "chulo",
-    "meaning": "1. Ave carroñera (gallinazo). 2. Persona muerta (parlache). 3. Moño o coleta en el cabello.",
-    "example": "",
-    "region": "Colombia (uso general / Antioquia)",
-    "source": "Wikcionario / GetVico / DanceFree"
-  },
-  {
-    "word": "paila",
-    "display": "paila",
-    "meaning": "Situación mala, grave o indeseable; ¡qué mala suerte!",
-    "example": "¡Con esa deuda ahora sí quedé paila!",
-    "region": "Colombia (uso general / Parlache)",
-    "source": "Wikcionario / Revista de Lexicografía"
-  },
-  {
-    "word": "piche",
-    "display": "piche",
-    "meaning": "Secreción ocular o legaña.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "Wikcionario (Colombianismos)"
-  },
-  {
-    "word": "picho",
-    "display": "picho",
-    "meaning": "Averiado, podrido o de poco valor.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "Wikcionario / Santander Encanta"
-  },
-  {
-    "word": "tenaz",
-    "display": "tenaz",
-    "meaning": "Difícil, complejo o impresionante.",
-    "example": "",
-    "region": "Colombia (uso general)",
-    "source": "DanceFree"
-  },
-  {
-    "word": "vaina",
-    "display": "vaina",
-    "meaning": "Palabra comodín para referirse a cualquier cosa, asunto, problema o situación.",
-    "example": "Pásame esa vaina que se me cayó.",
-    "region": "Colombia (uso general)",
-    "source": "Instituto Caro y Cuervo / LanguageTool"
   },
   {
     "word": "acido",
@@ -144,60 +16,524 @@
     "source": "Castañeda y Henao (Diccionario de parlache)"
   },
   {
+    "word": "aleta",
+    "display": "aleta",
+    "meaning": "Inquieto, descontrolado o exasperado.",
+    "example": "Ese tipo está todo aletiado porque le robaron el carro.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "ambil",
+    "display": "ambil",
+    "meaning": "Líquido espeso que se obtiene de la mezcla del tabaco y la sal de monte.",
+    "example": "Los abuelos de la maloca preparan el ambil mezclando tabaco cocido con sal de monte.",
+    "region": "Amazonia colombiana",
+    "source": "Instituto Sinchi (Glosario amazónico)"
+  },
+  {
     "word": "amure",
     "display": "amure",
     "meaning": "Ansiedad, encierro o desarraigo (variante: amurao).",
-    "example": "",
+    "example": "Lleva varios días encerrado en la casa y ya le empezó a pegar el amure.",
     "region": "Medellín / Antioquia (Parlache)",
     "source": "Wikcionario / Wikipedia (Parlache)"
   },
   {
+    "word": "andon",
+    "display": "andón",
+    "meaning": "Caballo de paso suave y regular.",
+    "example": "Ese caballo andón es tan suave para cabalgar que ni se siente el trote en la sabana.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Señal Colombia / Diccionario Criollo"
+  },
+  {
+    "word": "anton",
+    "display": "anton",
+    "meaning": "Entonces (forma rural tradicional).",
+    "example": "Si ya terminó de desyerbar la huerta, anton vámonos a tomar tinto a la cocina.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "añoñi",
+    "display": "añoñi",
+    "meaning": "Expresión equivalente a '¿que no?' para reafirmar seguridad; también entusiasmado.",
+    "example": "Ese equipo este año va a quedar campeón, ¿añoñi?",
+    "region": "Región Caribe (Costeño)",
+    "source": "Noticias Caracol / Wikcionario"
+  },
+  {
+    "word": "apiar",
+    "display": "apiar",
+    "meaning": "Bajar o descender de algo.",
+    "example": "Vaya a apiar esos racimos de plátano antes de que se maduren en la mata.",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
+  },
+  {
+    "word": "arepa",
+    "display": "arepa",
+    "meaning": "1. Tortilla típica de maíz. 2. Suerte o fortuna casual. 3. Vulva (vulgar).",
+    "example": "Hizo ese gol de pura arepa.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
     "word": "asado",
     "display": "asado",
-    "meaning": "Altanero, buscapleitos o enojado (en Cali también muy cargado de trabajo o sin dinero).",
+    "meaning": "Altanero, buscapleitos o enojado; en Cali, cargado de trabajo o sin dinero.",
     "example": "¡Eso no era penalti! - Vean a este asao calmado pues.",
+    "region": "Medellín / Antioquia / Valle",
+    "source": "GetVico / Wikcionario / El País"
+  },
+  {
+    "word": "atajo",
+    "display": "atajo",
+    "meaning": "Grupo de bestias o caballos.",
+    "example": "El caporal arreó todo el atajo de caballos hacia el corral antes de que cayera la lluvia.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "avion",
+    "display": "avión",
+    "meaning": "Persona astuta, sagaz o avispada.",
+    "example": "Tenga cuidado con ese tipo que es muy avión haciendo negocios.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "ayora",
+    "display": "ayora",
+    "meaning": "Exclamación de rechazo o desconcierto derivada de '¡ay, ¿y ahora?!'.",
+    "example": "¡Ayora! Se nos volvió a ir la luz justo cuando íbamos a terminar el trabajo.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "azare",
+    "display": "azare",
+    "meaning": "Prevención o miedo.",
+    "example": "Camine tranquilo por esa cuadra y no le meta azare a la situación.",
     "region": "Medellín / Antioquia (Parlache)",
-    "source": "GetVico / Wikcionario"
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "bacan",
+    "display": "bacán",
+    "meaning": "Buena persona; en el Caribe, hombre elegante y afecto al buen vivir.",
+    "example": "Tu hermano es muy bacán, siempre nos recibe con buena actitud y una sonrisa.",
+    "region": "Medellín / Región Caribe",
+    "source": "Wikcionario / Panorama Cultural"
+  },
+  {
+    "word": "bacio",
+    "display": "bacio",
+    "meaning": "Interjección que indica rechazo, desaire o repudio.",
+    "example": "¡Bacio! Yo con esa gente tan mentirosa no vuelvo a hacer ningún trato.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Panorama Cultural"
+  },
+  {
+    "word": "bagre",
+    "display": "bagre",
+    "meaning": "1. Pez de río. 2. Calificativo despectivo para una persona poco agraciada o mal arreglada.",
+    "example": "Pescamos un bagre enorme en el río Magdalena para hacer el sancocho del domingo.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario / DanceFree"
+  },
+  {
+    "word": "bajar",
+    "display": "bajar",
+    "meaning": "Asesinar; acompañado de 'de' ('bajar de'), robar o arrebatar por la fuerza.",
+    "example": "Me bajaron del anillo en el colegio.",
+    "region": "Medellín / Colombia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "barra",
+    "display": "barra",
+    "meaning": "Peso o dinero.",
+    "example": "No me queda ni una sola barra en el bolsillo hasta que me paguen la quincena.",
+    "region": "Colombia (Jerga)",
+    "source": "DanceFree"
+  },
+  {
+    "word": "barro",
+    "display": "barro",
+    "meaning": "Malo, lamentable o decepcionante.",
+    "example": "¡Ey, barro eso!",
+    "region": "Región Caribe (Costeño)",
+    "source": "Noticias Caracol / DanceFree"
+  },
+  {
+    "word": "batan",
+    "display": "batán",
+    "meaning": "Ajetreo, trajín o actividad intensa.",
+    "example": "Con tanto batán en la oficina durante todo el día, llegué a la casa directo a dormir.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Panorama Cultural"
+  },
+  {
+    "word": "bemba",
+    "display": "bemba",
+    "meaning": "Boca (generalmente de labios gruesos).",
+    "example": "Se cayó jugando fútbol y se rompió la bemba contra el borde de la cancha.",
+    "region": "Región Pacífica / Chocó / Caribe",
+    "source": "Lenguaje Urbano del Chocó / DanceFree"
+  },
+  {
+    "word": "bicha",
+    "display": "bicha",
+    "meaning": "Cosa u objeto cualquiera.",
+    "example": "Páseme esa bicha.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "biche",
+    "display": "biche",
+    "meaning": "En el Caribe: persona vanidosa o inmadura (y fruto verde); en el Pacífico: licor de caña.",
+    "example": "El gringo vio arenas blancas, vio mulatas y negras, comió zapote, chontaduro y mango biche.",
+    "region": "Región Caribe / Pacífico / Colombia",
+    "source": "Señal Colombia / DiCol / Chocó 7 Días"
+  },
+  {
+    "word": "bicho",
+    "display": "bicho",
+    "meaning": "Animal o ganado vacuno cuando aún está pequeño.",
+    "example": "El bicho todavía está muy tierno y no se puede separar de la vaca.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "bijao",
+    "display": "bijao",
+    "meaning": "Planta de hojas anchas utilizadas tradicionalmente para envolver alimentos.",
+    "example": "Envolvimos los tamales en hojas de bijao frescas para que conservaran todo su aroma.",
+    "region": "Llanos Orientales / Caribe",
+    "source": "Calameo / Panorama Cultural"
+  },
+  {
+    "word": "birra",
+    "display": "birra",
+    "meaning": "Cerveza.",
+    "example": "Después del partido nos tomamos unas birras bien frías en la tienda de la esquina.",
+    "region": "Colombia (uso general / Valle del Cauca)",
+    "source": "Wikcionario / Diccionario Caleño"
   },
   {
     "word": "bogar",
     "display": "bogar",
     "meaning": "Beber algo de una sola vez, sin respirar.",
-    "example": "",
+    "example": "Tenía tanta sed después de subir la loma que se puso a bogar todo el vaso de agua.",
     "region": "Antioquia (Paisa)",
     "source": "Diccionario Paisa"
+  },
+  {
+    "word": "bolas",
+    "display": "bolas",
+    "meaning": "Testículos; en la expresión 'parar bolas', prestar atención.",
+    "example": "Párele bolas, hoy me bajé del bus y me robaron.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario / Weekend Santander"
+  },
+  {
+    "word": "bollo",
+    "display": "bollo",
+    "meaning": "1. Persona linda o atractiva. 2. Heces fecales. 3. Dificultad o enredo.",
+    "example": "No te metas en ese bollo que después nadie te ayuda a salir del problema.",
+    "region": "Colombia / Región Caribe",
+    "source": "Wikcionario / DanceFree"
+  },
+  {
+    "word": "bongo",
+    "display": "bongo",
+    "meaning": "Embarcación hecha con el tronco de un árbol; canoa.",
+    "example": "Cruzamos el caño remando en un bongo tallado en un solo tronco de madera.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "bosta",
+    "display": "bosta",
+    "meaning": "Excremento seco o boñiga de res.",
+    "example": "Recogieron la bosta seca del potrero para prender el fogón de leña.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Sec. Educación Casanare / Diccionario Criollo"
+  },
+  {
+    "word": "brete",
+    "display": "brete",
+    "meaning": "Fiesta, alboroto, desorden o pelea.",
+    "example": "Se armó el brete en la casa de Juan con maicena y toda vaina.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Bacánika / Panorama Cultural"
   },
   {
     "word": "breve",
     "display": "breve",
     "meaning": "Fácil de hacer o respuesta afirmativa inmediata.",
-    "example": "",
+    "example": "Tranquilo, ese trámite es muy breve, en diez minutos ya estamos afuera.",
     "region": "Medellín / Colombia (Parlache)",
     "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "broco",
+    "display": "broco",
+    "meaning": "Campesino o criollo.",
+    "example": "Ese muchacho es puro broco llanero, criado entre caballos y faenas de vaquería.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "buche",
+    "display": "buche",
+    "meaning": "Barriga o estómago.",
+    "example": "Comió tanta carne oreada en el almuerzo que quedó con el buche lleno hasta la noche.",
+    "region": "Santander / Llanos Orientales",
+    "source": "Cómo hablan los santandereanos / Calameo"
+  },
+  {
+    "word": "bufar",
+    "display": "bufar",
+    "meaning": "Molestar o fastidiar a alguien.",
+    "example": "A mí no me venga a bufonear.",
+    "region": "Colombia (Jerga juvenil)",
+    "source": "WikiLengua"
+  },
+  {
+    "word": "bulla",
+    "display": "bulla",
+    "meaning": "Ruido o alboroto.",
+    "example": "Bajen un poquito la bulla que los vecinos ya se acostaron a dormir.",
+    "region": "Colombia / Región Caribe",
+    "source": "DanceFree"
   },
   {
     "word": "buque",
     "display": "buque",
     "meaning": "1. Mentira o patraña. 2. Cambiazo como modalidad de estafa.",
-    "example": "",
+    "example": "No le creas nada de lo que dice porque ese cuento es puro buque.",
     "region": "Medellín / Antioquia (Parlache)",
     "source": "Wikcionario (Glosario del parlache)"
   },
   {
+    "word": "burro",
+    "display": "burro",
+    "meaning": "En Santander, consumidor de marihuana; en el Caribe, usado en 'puyar el burro' (apresurar).",
+    "example": "En el grupo decían que ese man era muy burro y se la pasaba fumando en el parque.",
+    "region": "Santander",
+    "source": "Cómo hablan los santandereanos"
+  },
+  {
+    "word": "cabra",
+    "display": "cabra",
+    "meaning": "Navaja (sinónimo: patecabra).",
+    "example": "El vigilante le decomisó una cabra que llevaba escondida en el bolsillo de la chaqueta.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "cache",
+    "display": "caché",
+    "meaning": "Elegancia, distinción o pertenencia a una clase económica alta ('ser de puro caché').",
+    "example": "Ese restaurante nuevo es de puro caché, va pura gente elegante de la ciudad.",
+    "region": "Colombia (uso general)",
+    "source": "LanguageTool"
+  },
+  {
+    "word": "cacho",
+    "display": "cacho",
+    "meaning": "Cigarrillo de marihuana o tabaco de envolver; en plural ('poner los cachos'), infidelidad.",
+    "example": "Se descubrió que le estaba poniendo los cachos al novio desde hace meses.",
+    "region": "Colombia / Medellín (Parlache)",
+    "source": "SciELO / Wikcionario"
+  },
+  {
+    "word": "cagao",
+    "display": "cagao",
+    "meaning": "1. Persona cobarde o miedosa. 2. Persona con mala suerte.",
+    "example": "Se cagó cuando lo enfrentaron.",
+    "region": "Colombia / Medellín (Parlache)",
+    "source": "Wikcionario (Colombianismos / Parlache)"
+  },
+  {
+    "word": "caibo",
+    "display": "caibo",
+    "meaning": "Golpe doloroso dado en la cabeza con los nudillos de la mano cerrada.",
+    "example": "Por estar molestando en clase, el hermano mayor le pegó un caibo en la cabeza.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "calao",
+    "display": "calao",
+    "meaning": "Pan tostado y crocante tradicional (calado).",
+    "example": "En el desayuno nos sirvieron chocolate caliente con queso campesino y calao crocante.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza / DiCol"
+  },
+  {
+    "word": "caron",
+    "display": "carón",
+    "meaning": "Desvergonzado o cínico; en Nariño también mal encarado.",
+    "example": "Después de romper el vidrio, tuvo el descaro de aparecerse bien carón a pedir disculpas.",
+    "region": "Región Caribe / Nariño",
+    "source": "Panorama Cultural / Pasto Tierra Cultural"
+  },
+  {
     "word": "caspa",
     "display": "caspa",
-    "meaning": "Bobada, mentira o cosa inservible y fútil (persona: casposo).",
+    "meaning": "Bobada, mentira o cosa inservible y fútil.",
     "example": "¡Cuál home, eso es pura caspa!",
     "region": "Medellín / Antioquia (Parlache)",
     "source": "Wikcionario / Wikipedia (Parlache)"
   },
   {
+    "word": "chaji",
+    "display": "chaji",
+    "meaning": "Ave comúnmente llamada toche (también chafi).",
+    "example": "En las mañanas se escucha cantar al chaji en los árboles cercanos a la quebrada.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "chavo",
+    "display": "chavo",
+    "meaning": "Moneda, peso o dinero en pequeñas cantidades (usado comúnmente en plural: chavos).",
+    "example": "No tengo ni un chavo suelto para pagar el pasaje de la lancha.",
+    "region": "Región Pacífica",
+    "source": "Señal Colombia / Canal Cali TV"
+  },
+  {
+    "word": "chepa",
+    "display": "chepa",
+    "meaning": "Suerte favorable o acierto casual (variantes: chepón, chepudo).",
+    "example": "Aprobó el examen sin haber estudiado nada, eso fue de pura chepa.",
+    "region": "Colombia (uso general)",
+    "source": "SciELO / Wikcionario"
+  },
+  {
+    "word": "cheto",
+    "display": "cheto",
+    "meaning": "Vehículo automotor grande para transporte público (buseta o autobús).",
+    "example": "Pare el cheto que vamos a llegar tarde.",
+    "region": "Colombia (Jerga juvenil)",
+    "source": "WikiLengua"
+  },
+  {
+    "word": "chibo",
+    "display": "chibo",
+    "meaning": "Trampa, infracción en un juego o acción para perjudicar a alguien.",
+    "example": "No juguemos más con él porque siempre mete chibo cuando va perdiendo.",
+    "region": "Región Pacífica",
+    "source": "Señal Colombia / Canal Cali TV"
+  },
+  {
+    "word": "chimo",
+    "display": "chimo",
+    "meaning": "Pasta de tabaco que saborea o mastica el llanero (también chimú).",
+    "example": "El viejo llanero sacó su cajita de chimo mientras esperaba que escampara.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "chino",
+    "display": "chino",
+    "meaning": "Niño o muchacho joven.",
+    "example": "Los chinos salieron al parque.",
+    "region": "Altiplano Cundiboyacense / Bogotá",
+    "source": "Wikcionario / Centro Catalina"
+  },
+  {
+    "word": "chiro",
+    "display": "chiro",
+    "meaning": "Prenda de vestir o ropa (usado comúnmente en plural: chiros).",
+    "example": "Póngase unos chiros limpios que ya casi salimos para la fiesta del pueblo.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo / DanceFree"
+  },
+  {
+    "word": "chite",
+    "display": "chite",
+    "meaning": "Interjección usada para espantar animales (especialmente perros) o decir '¡fuera!'.",
+    "example": "¡Chite de aquí, perro!, no se acerque a la mesa mientras estamos almorzando.",
+    "region": "Colombia / Huila",
+    "source": "Revista de Lexicografía (DiCol) / RedHuila"
+  },
+  {
+    "word": "chiva",
+    "display": "chiva",
+    "meaning": "1. Bus escalera típico rural. 2. Primicia noticiosa. 3. Barba.",
+    "example": "Subimos el mercado al techo de la chiva para viajar hasta la vereda.",
+    "region": "Colombia / Antioquia",
+    "source": "Instituto Caro y Cuervo / Diccionario Paisa"
+  },
+  {
+    "word": "choca",
+    "display": "choca",
+    "meaning": "Reunión comunitaria de amigos y vecinos indígenas o campesinos para realizar trabajos colectivos.",
+    "example": "Todo el vecindario participó en la choca para limpiar el camino comunitario.",
+    "region": "Región Pacífica",
+    "source": "Instituto Caro y Cuervo / Radio Nacional"
+  },
+  {
     "word": "choro",
     "display": "choro",
     "meaning": "Ladrón, delincuente.",
-    "example": "",
+    "example": "La policía capturó al choro que se había robado las bicicletas del conjunto.",
     "region": "Medellín / Colombia (Parlache)",
     "source": "Wikcionario / LanguageTool"
+  },
+  {
+    "word": "chulo",
+    "display": "chulo",
+    "meaning": "1. Ave carroñera (gallinazo). 2. Persona muerta (parlache). 3. Moño en el cabello.",
+    "example": "Varios chulos volaban en círculos sobre el potrero buscando carroña.",
+    "region": "Colombia (uso general / Antioquia)",
+    "source": "Wikcionario / GetVico / DanceFree"
+  },
+  {
+    "word": "chuzo",
+    "display": "chuzo",
+    "meaning": "1. Cafetería o local pequeño y humilde. 2. Puñal o arma blanca. 3. Brocheta de carne.",
+    "example": "Al salir de clase pasamos a comer empanadas en un chuzo frente a la universidad.",
+    "region": "Colombia / Medellín / Santander",
+    "source": "Wikcionario / Cómo hablan los santandereanos"
+  },
+  {
+    "word": "comai",
+    "display": "comai",
+    "meaning": "Comadre.",
+    "example": "Buenas tardes, comai, ¿cómo amaneció hoy toda su familia?",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "combo",
+    "display": "combo",
+    "meaning": "1. Grupo de personas o amigos. 2. Banda delincuencial. 3. Menú con guarnición y bebida.",
+    "example": "El viernes vamos a salir con todo el combo a comer hamburguesas.",
+    "region": "Colombia / Medellín / Caribe",
+    "source": "Noticias Caracol / Wikcionario"
+  },
+  {
+    "word": "comer",
+    "display": "comer",
+    "meaning": "1. Cenar en la noche. 2. Tener miedo (en parlache).",
+    "example": "A esa hora de la noche ya íbamos para la casa a comer antes de dormir.",
+    "region": "Colombia / Medellín",
+    "source": "Wikcionario (Colombianismos / Parlache)"
+  },
+  {
+    "word": "compa",
+    "display": "compa",
+    "meaning": "Acortamiento de compañero o amigo.",
+    "example": "Ese compa es muy barbachán, anda tratando mal a mi manito.",
+    "region": "Medellín / Chocó / Colombia",
+    "source": "Wikcionario / Wayground"
   },
   {
     "word": "cruce",
@@ -208,9 +544,65 @@
     "source": "GetVico / Wikcionario"
   },
   {
+    "word": "cuajo",
+    "display": "cuajo",
+    "meaning": "Músculo o persona musculosa.",
+    "example": "Se nota que lleva años entrenando en el gimnasio porque tiene tremendo cuajo.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "cucho",
+    "display": "cucho",
+    "meaning": "1. Padre o persona mayor (coloquial). 2. Rincón de una casa o espacio (en Chocó y Nariño).",
+    "example": "Mi cucho siempre me aconseja que ahorre parte de mi sueldo todos los meses.",
+    "region": "Colombia / Nariño / Chocó",
+    "source": "Wikcionario / Diccionario Paisa / Pasto Tierra Cultural"
+  },
+  {
+    "word": "cucos",
+    "display": "cucos",
+    "meaning": "Calzones de dama o prenda de ropa interior femenina.",
+    "example": "Guardó los cucos recién doblados en el primer cajón del armario.",
+    "region": "Antioquia / Colombia",
+    "source": "Diccionario Paisa"
+  },
+  {
+    "word": "cuero",
+    "display": "cuero",
+    "meaning": "1. Mujer fea. 2. Prostituta. 3. Desnudo/a ('en cuero').",
+    "example": "Hacía tanto calor en el cuarto que se acostó a dormir en cuero.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "cuzca",
+    "display": "cuzca",
+    "meaning": "Colilla maloliente de tabaco o cigarrillo.",
+    "example": "Apagó el cigarrillo y dejó la cuzca maloliente en el cenicero.",
+    "region": "Antioquia (Paisa)",
+    "source": "Diccionario Paisa"
+  },
+  {
+    "word": "dejao",
+    "display": "dejao",
+    "meaning": "Separado de la pareja o persona perezosa.",
+    "example": "Desde que terminó con la novia anda todo dejao y sin ganas de salir.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "eprie",
+    "display": "eprie",
+    "meaning": "Interjección empleada para expresar contrariedad o enojo.",
+    "example": "¡Eprie! Otra vez se me olvidaron las llaves adentro de la casa.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Panorama Cultural"
+  },
+  {
     "word": "farra",
     "display": "farra",
-    "meaning": "Fiesta, rumba o parranda animada (verbo: farrear).",
+    "meaning": "Fiesta, rumba o parranda animada.",
     "example": "¡Esta noche vamos a salir de farra! ¿Quieres ir?",
     "region": "Antioquia / Valle / Colombia",
     "source": "Medellín Travel / Teleantioquia"
@@ -232,6 +624,38 @@
     "source": "Wikcionario (Glosario del parlache)"
   },
   {
+    "word": "fisto",
+    "display": "fisto",
+    "meaning": "Pene (coloquial).",
+    "example": "El niño se quejaba de dolor porque se golpeó el fisto jugando bicicleta.",
+    "region": "Boyacá / Cundinamarca / Santander",
+    "source": "Breve Diccionario de Colombianismos"
+  },
+  {
+    "word": "fuete",
+    "display": "fuete",
+    "meaning": "Látigo o azote.",
+    "example": "El arriero hizo sonar el fuete en el aire para guiar a las mulas por el camino.",
+    "region": "Nariño / Colombia",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "fules",
+    "display": "fules",
+    "meaning": "Comida o alimentos.",
+    "example": "Vamos a matar los fules.",
+    "region": "Región Pacífica",
+    "source": "Canal Cali TV"
+  },
+  {
+    "word": "gallo",
+    "display": "gallo",
+    "meaning": "1. Problema o tarea difícil. 2. Arreglo ingenioso. 3. Clítoris.",
+    "example": "Me salió un gallo y tuve que quedarme hasta tarde en la oficina.",
+    "region": "Colombia / Medellín",
+    "source": "Wikcionario (Colombianismos / Parlache)"
+  },
+  {
     "word": "gamba",
     "display": "gamba",
     "meaning": "Plata o dinero (en ocasiones unidad monetaria informal).",
@@ -243,9 +667,57 @@
     "word": "gamin",
     "display": "gamín",
     "meaning": "Niño o persona indigente que vive en la calle.",
-    "example": "",
+    "example": "Le compramos un plato de comida caliente a un gamín que dormía en la esquina.",
     "region": "Medellín / Colombia (Parlache)",
-    "source": "Wikcionario (Glosario del parlache / Colombianismos)"
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "gocho",
+    "display": "gocho",
+    "meaning": "Con orejas deformes o sin ellas.",
+    "example": "Entre el ganado había un novillo gocho que reconocíamos fácilmente a lo lejos.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "gruma",
+    "display": "gruma",
+    "meaning": "Leche recién obtenida del ordeño.",
+    "example": "Por la mañana tomamos un vaso de gruma tibia recién sacada del corral.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "guabo",
+    "display": "guabo",
+    "meaning": "Residuo, suciedad o basura ('irse al guabo': acabarse o desecharse).",
+    "example": "Se fue al guabo.",
+    "region": "Región Pacífica",
+    "source": "Canal Cali TV"
+  },
+  {
+    "word": "guafa",
+    "display": "guafa",
+    "meaning": "Guadua; cosa del montón que no es especial.",
+    "example": "Cortaron varias varas de guafa para levantar la cerca del potrero.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Diccionario Criollo"
+  },
+  {
+    "word": "guala",
+    "display": "guala",
+    "meaning": "Ave carroñera (chulo, gallinazo o zopilote).",
+    "example": "Una guala se posó en lo alto del eucalipto después de la lluvia.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "guara",
+    "display": "guara",
+    "meaning": "Gallinazo.",
+    "example": "En la finca vimos una guara parada sobre el poste de la cerca.",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
   },
   {
     "word": "guaro",
@@ -254,6 +726,430 @@
     "example": "¿Compramos más guaro o qué?",
     "region": "Antioquia / Boyacá / Valle",
     "source": "GetVico / Pulzo / Diccionario Caleño"
+  },
+  {
+    "word": "guate",
+    "display": "guate",
+    "meaning": "Plato típico a base de maíz similar a la mazamorra, con coco, piña u otras frutas.",
+    "example": "En la tarde nos sirvieron un plato de guate dulce con coco rallado.",
+    "region": "Región Pacífica",
+    "source": "Canal Cali TV"
+  },
+  {
+    "word": "guato",
+    "display": "guato",
+    "meaning": "Persona pequeña o de baja estatura.",
+    "example": "Aunque es el más guato del equipo, corre más rápido que todos los demás.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "gueva",
+    "display": "güeva",
+    "meaning": "Persona lenta, tonta o torpe.",
+    "example": "No sea tan güeva y revise bien el cambio antes de salir de la tienda.",
+    "region": "Medellín / Colombia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "guiba",
+    "display": "güiba",
+    "meaning": "Capa de relleno (lenteja, arveja o garbanzo molido) puesta entre dos capas de maíz en la arepa.",
+    "example": "Estas arepas quedaron deliciosas porque tienen bastante güiba de arveja por dentro.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "guipa",
+    "display": "güipa",
+    "meaning": "Niño o niña en el Huila.",
+    "example": "La güipa salió corriendo hacia el patio apenas escuchó llegar a sus abuelos.",
+    "region": "Huila (Opita)",
+    "source": "DanceFree"
+  },
+  {
+    "word": "guiro",
+    "display": "güiro",
+    "meaning": "Chisme, problema, enredo o pelea.",
+    "example": "No le prestes atención a ese comentario que solo quieren armar güiro.",
+    "region": "Región Caribe / Medellín / Colombia",
+    "source": "Noticias Caracol / Wikcionario"
+  },
+  {
+    "word": "guiso",
+    "display": "guiso",
+    "meaning": "Persona de mal gusto o que viste de manera vulgar u ordinaria.",
+    "example": "Se puso una camisa llena de lentejuelas brillantes y se veía muy guiso.",
+    "region": "Bogotá / Santander",
+    "source": "DanceFree / Cómo hablan los santandereanos"
+  },
+  {
+    "word": "gurre",
+    "display": "gurre",
+    "meaning": "1. Persona considerada poco agradable a la vista (parlache). 2. Armadillo (en los Llanos).",
+    "example": "Los perros empezaron a ladrar cuando vieron pasar un gurre cerca del caño.",
+    "region": "Medellín / Llanos Orientales",
+    "source": "Wikcionario / Diccionario Criollo"
+  },
+  {
+    "word": "herpo",
+    "display": "herpo",
+    "meaning": "Galleta cuadrada rellena de bocadillo de guayaba y arequipe.",
+    "example": "Se interna por calles del centro, en medio de los carritos de las vendedoras ambulantes que ofrecen herpo y bocadillo de guayaba.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo (Guía DiCol)"
+  },
+  {
+    "word": "iburi",
+    "display": "iburi",
+    "meaning": "Instrumento musical (bocina o trompeta) usado por los ticunas en la fiesta de la pelazón.",
+    "example": "Durante la ceremonia tradicional resonó el sonido profundo del iburi.",
+    "region": "Amazonia colombiana",
+    "source": "Instituto Sinchi (Glosario amazónico)"
+  },
+  {
+    "word": "igapo",
+    "display": "igapo",
+    "meaning": "Planicie de inundación de los ríos amazónicos de aguas negras.",
+    "example": "En época de creciente, los peces se refugian entre los árboles del igapo.",
+    "region": "Amazonia colombiana",
+    "source": "Instituto Sinchi (Glosario amazónico)"
+  },
+  {
+    "word": "indio",
+    "display": "indio",
+    "meaning": "Plato típico bogotano de carne molida y arroz cocinados en hojas de repollo (usado en plural: indios).",
+    "example": "Los indios se hacen envueltos en hojitas de repollo.",
+    "region": "Bogotá (Cundiboyacense)",
+    "source": "Instituto Caro y Cuervo (Guía DiCol)"
+  },
+  {
+    "word": "jabao",
+    "display": "jabao",
+    "meaning": "Persona engreída u orgullosa por algo que posee o luce.",
+    "example": "Anda todo jabao por el barrio mostrando el reloj nuevo que se compró.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Radiónica"
+  },
+  {
+    "word": "jalao",
+    "display": "jalao",
+    "meaning": "Borracho, ebrio.",
+    "example": "Salió de la parranda bien jalao y tuvieron que acompañarlo hasta su casa.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "jarto",
+    "display": "jarto",
+    "meaning": "Borracho; también muy lleno o hastiado.",
+    "example": "Estoy jarto de esperar tanto tiempo en esta fila que no avanza.",
+    "region": "Llanos Orientales / Colombia",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "jecho",
+    "display": "jecho",
+    "meaning": "Fruto listo para madurar; en Huila también aventajado o experimentado.",
+    "example": "Ese plátano ya está jecho, mañana mismo lo podemos cortar para freír.",
+    "region": "Huila / Llanos Orientales",
+    "source": "RedHuila / Calameo"
+  },
+  {
+    "word": "jigra",
+    "display": "jigra",
+    "meaning": "Bolso o mochila tejida tradicional.",
+    "example": "La abuela guardaba sus ovillos de lana dentro de una jigra tejida a mano.",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
+  },
+  {
+    "word": "joder",
+    "display": "joder",
+    "meaning": "Molestar, fastidiar o incomodar insistentemente.",
+    "example": "Los bancos no han hecho sino llamar pa joder.",
+    "region": "Colombia / Santander",
+    "source": "Weekend Santander / DanceFree"
+  },
+  {
+    "word": "jodon",
+    "display": "jodón",
+    "meaning": "Persona que molesta o fastidia mucho.",
+    "example": "Mi tío es muy jodón, siempre está haciendo bromas en las reuniones familiares.",
+    "region": "Colombia (uso general)",
+    "source": "SciELO / Diccionario de la Lengua Española"
+  },
+  {
+    "word": "jotos",
+    "display": "jotos",
+    "meaning": "Paquetes, bolsas o envoltorios rurales.",
+    "example": "Llegó del mercado cargando varios jotos llenos de yuca, plátano y panela.",
+    "region": "Santander / Huila / Colombia",
+    "source": "Cómo hablan los santandereanos / RedHuila"
+  },
+  {
+    "word": "juise",
+    "display": "juise",
+    "meaning": "Interjección equivalente a '¡fuera!'.",
+    "example": "¡Juise de la cocina, gato, que vas a tumbar las ollas!",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
+  },
+  {
+    "word": "juñoi",
+    "display": "juñoi",
+    "meaning": "Hortaliza tradicional cultivada en la Amazonia.",
+    "example": "En la chagra sembraron juñoi junto con otras plantas tradicionales de la región.",
+    "region": "Amazonia colombiana",
+    "source": "Instituto Sinchi (Glosario amazónico)"
+  },
+  {
+    "word": "jurgo",
+    "display": "jurgo",
+    "meaning": "Cantidad excesiva o muy grande de algo.",
+    "example": "Imagínense que le pidió, como dice él, un jurgo de plata por poner unas cámaras de video por todo el conjunto.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo (Afiches DiCol)"
+  },
+  {
+    "word": "labia",
+    "display": "labia",
+    "meaning": "Verbosidad excesiva o habilidad persuasiva para hablar y convencer.",
+    "example": "Ese vendedor tiene tanta labia que logra convencer a cualquiera de comprar.",
+    "region": "Cali / Colombia",
+    "source": "Radiónica (Diccionario Caleño)"
+  },
+  {
+    "word": "lacra",
+    "display": "lacra",
+    "meaning": "Persona de mal gusto, despreciable o que obra mal.",
+    "example": "Nadie quiere juntarse con ese tipo porque es una lacra en el barrio.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "lamer",
+    "display": "lamer",
+    "meaning": "1. Adular servilmente (también lamber). 2. Matar o asesinar (en parlache).",
+    "example": "Le voy a lamber a mi jefe para que me dé un ascenso.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "llave",
+    "display": "llave",
+    "meaning": "Amigo cercano o compañero de confianza.",
+    "example": "Gracias por ayudarme con la mudanza, usted sí es mi verdadero llave.",
+    "region": "Colombia / Región Caribe",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "locha",
+    "display": "locha",
+    "meaning": "Pereza, inactividad o falta de ánimo para hacer algo.",
+    "example": "Hoy domingo amanecí con una locha tremenda y no quiero salir de la cama.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo / Radio Nacional"
+  },
+  {
+    "word": "lukas",
+    "display": "lukas",
+    "meaning": "Dinero (equivalente a unidades de mil pesos).",
+    "example": "No tengo lukas pa ir.",
+    "region": "Santander / Valle / Colombia",
+    "source": "Weekend Santander / Diccionario Caleño"
+  },
+  {
+    "word": "majar",
+    "display": "majar",
+    "meaning": "Golpear.",
+    "example": "Cuidado te vas a majar un dedo con el martillo arreglando esa silla.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "makia",
+    "display": "makía",
+    "meaning": "Que está bien o excelente.",
+    "example": "Ese arreglo que le hiciste a la moto quedó makía, ya no suena nada raro.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "mamon",
+    "display": "mamón",
+    "meaning": "Persona o actividad molesta, cansona y desesperante.",
+    "example": "Qué trámite tan mamón, nos pidieron cinco copias del mismo documento.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "manga",
+    "display": "manga",
+    "meaning": "Césped, prado o zona verde.",
+    "example": "Los niños se acostaron en la manga del parque a mirar las nubes.",
+    "region": "Antioquia (Paisa)",
+    "source": "GetVico"
+  },
+  {
+    "word": "mecha",
+    "display": "mecha",
+    "meaning": "En el Caribe, trapero ('pasar la mecha' = trapear); en parlache, ropa.",
+    "example": "Comprar la mecha pa diciembre.",
+    "region": "Región Caribe / Medellín (Parlache)",
+    "source": "Bacánika / Wikcionario"
+  },
+  {
+    "word": "mecho",
+    "display": "mecho",
+    "meaning": "Cabo de vela.",
+    "example": "Prendieron el mecho que quedaba sobre la mesa cuando se fue la energía.",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
+  },
+  {
+    "word": "melar",
+    "display": "melar",
+    "meaning": "Comer.",
+    "example": "Vámonos rápido para la casa que ya tengo hambre y quiero ir a melar.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario / DanceFree"
+  },
+  {
+    "word": "melga",
+    "display": "melga",
+    "meaning": "Surco de tierra.",
+    "example": "Fueron sembrando las semillas de papa a lo largo de cada melga.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "meter",
+    "display": "meter",
+    "meaning": "Consumir drogas o sustancias psicoactivas.",
+    "example": "Prefirió alejarse de ese grupo porque todos se reunían solo para meter vicio.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "minga",
+    "display": "minga",
+    "meaning": "Trabajo colectivo o labor realizada en grupo en beneficio común.",
+    "example": "Toda la comunidad se organizó en minga para reconstruir el puente de la vereda.",
+    "region": "Chocó / Región Pacífica / Andina",
+    "source": "Lenguaje Urbano del Chocó / DanceFree"
+  },
+  {
+    "word": "misia",
+    "display": "misiá",
+    "meaning": "Tratamiento tradicional respetuoso equivalente a 'señora' (de mi señora).",
+    "example": "Buenos días, misiá Carmen, ¿me hace el favor y me vende una libra de queso?",
+    "region": "Colombia (región andina)",
+    "source": "DanceFree"
+  },
+  {
+    "word": "monda",
+    "display": "mondá",
+    "meaning": "Órgano genital masculino; también usada en locuciones enfáticas.",
+    "example": "No me importa un carajo lo que digan, eso me vale mondá.",
+    "region": "Región Caribe (Costeño)",
+    "source": "DanceFree"
+  },
+  {
+    "word": "mosca",
+    "display": "mosca",
+    "meaning": "Estar atento, alerta o vigilante (usado a menudo repetido: ¡mosca! ¡mosca!).",
+    "example": "¡Mosca! ¡Mosca!",
+    "region": "Medellín / Colombia (Parlache)",
+    "source": "Castañeda y Henao / Wikcionario"
+  },
+  {
+    "word": "murga",
+    "display": "murga",
+    "meaning": "Misterio o rodeo innecesario.",
+    "example": "Habla claro y al grano, no le metas tanta murga a lo que vas a contar.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "niche",
+    "display": "niche",
+    "meaning": "Persona afrodescendiente o morocha (muy usado en Buenaventura).",
+    "example": "Ese niche toca la marimba de chonta con un sabor impresionante.",
+    "region": "Buenaventura / Región Pacífica",
+    "source": "Wikcionario (Colombianismos)"
+  },
+  {
+    "word": "ninja",
+    "display": "ninja",
+    "meaning": "Atracador que actúa en grupo; también persona muy hábil en cualquier aspecto.",
+    "example": "Me salieron tres ninjas y me robaron todo.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "nospi",
+    "display": "nospi",
+    "meaning": "Abreviación juvenil caleña de 'nos pillamos' (nos vemos luego).",
+    "example": "Ya me voy para la casa, ¡nospi mañana en la universidad!",
+    "region": "Cali / Valle del Cauca",
+    "source": "Alcaldía de Cali / Diccionario Caleño"
+  },
+  {
+    "word": "notas",
+    "display": "notas",
+    "meaning": "Forma coloquial de negación equivalente a 'no'.",
+    "example": "¿Que si voy a ir a esa reunión tan aburrida? ¡Notas, ni loco!",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Castañeda y Henao (Redalyc)"
+  },
+  {
+    "word": "notis",
+    "display": "notis",
+    "meaning": "Forma coloquial de decir 'no' o negar algo.",
+    "example": "¿Me prestas tu chaqueta nueva? - ¡Notis, apenas la estrené ayer!",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Castañeda y Henao (Redalyc)"
+  },
+  {
+    "word": "ñanga",
+    "display": "ñanga",
+    "meaning": "Algo de poco valor, ordinario o gratis (del quechua).",
+    "example": "Qué vestido tan ñanga.",
+    "region": "Colombia (Jerga juvenil)",
+    "source": "WikiLengua"
+  },
+  {
+    "word": "ñatas",
+    "display": "ñatas",
+    "meaning": "Nariz (usado informalmente en plural).",
+    "example": "Él se enamoró del deporte de las ñatas rotas.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo (Guía DiCol)"
+  },
+  {
+    "word": "onces",
+    "display": "onces",
+    "meaning": "Merienda tradicional de panes y amasijos (sinónimo de segundillas).",
+    "example": "A las cuatro de la tarde nos sentamos a tomar las onces con café y almojábana.",
+    "region": "Bogotá / Altiplano Cundiboyacense",
+    "source": "Instituto Caro y Cuervo / RedHuila"
+  },
+  {
+    "word": "oreja",
+    "display": "oreja",
+    "meaning": "Desvío curvo de un puente vehicular para tomar otra dirección; en 'parar oreja', escuchar con atención.",
+    "example": "Nuestro bendito Gabo desde niño se la pasó parando la oreja.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo (Guía DiCol)"
+  },
+  {
+    "word": "paila",
+    "display": "paila",
+    "meaning": "Situación mala, grave o indeseable; ¡qué mala suerte!",
+    "example": "¡Con esa deuda ahora sí quedé paila!",
+    "region": "Colombia (uso general / Parlache)",
+    "source": "Wikcionario / Revista de Lexicografía"
   },
   {
     "word": "parce",
@@ -267,7 +1163,7 @@
     "word": "pasta",
     "display": "pasta",
     "meaning": "En parlache, algo bello, bonito o llamativo por su belleza.",
-    "example": "",
+    "example": "Esa bicicleta nueva está muy pasta, tiene unos colores llamativos.",
     "region": "Medellín / Antioquia (Parlache)",
     "source": "Wikipedia (Parlache)"
   },
@@ -280,84 +1176,204 @@
     "source": "Medellín Travel / El País (Cali)"
   },
   {
-    "word": "sizas",
-    "display": "sizas",
-    "meaning": "Forma coloquial de decir 'sí' o afirmar algo (variante: sisas).",
-    "example": "¿Tienes clase en la tarde? - Sizas, parce.",
-    "region": "Medellín / Antioquia (Parlache)",
-    "source": "GetVico / Hablea / DanceFree"
+    "word": "pelos",
+    "display": "pelos",
+    "meaning": "Amigas o parejas con derechos (usado en plural).",
+    "example": "El sábado salió a bailar con unas pelos de la universidad.",
+    "region": "Santander",
+    "source": "Cómo hablan los santandereanos"
   },
   {
-    "word": "tombo",
-    "display": "tombo",
-    "meaning": "Agente de policía (colectivo: la tomba).",
-    "example": "Cuidado que por ahí están los tombos.",
-    "region": "Medellín / Colombia (Parlache)",
+    "word": "penca",
+    "display": "penca",
+    "meaning": "Mujer hermosa.",
+    "example": "Todos voltearon a mirar cuando entró esa penca al salón de baile.",
+    "region": "Llanos Orientales / Colombia",
+    "source": "DanceFree"
+  },
+  {
+    "word": "perro",
+    "display": "perro",
+    "meaning": "Amigo cercano o persona despreciable según el contexto; en Santander también persona sagaz.",
+    "example": "¿Qué más, perro? Hace rato que no nos veíamos por aquí.",
+    "region": "Medellín / Santander / Colombia",
+    "source": "Wikcionario / Castañeda y Henao"
+  },
+  {
+    "word": "picao",
+    "display": "picao",
+    "meaning": "Persona presumida, vanidosa o creída (variante: picado).",
+    "example": "Desde que lo ascendieron en la oficina se volvió muy picao y ya ni saluda.",
+    "region": "Medellín / Cali / Santander",
     "source": "Wikcionario (Glosario del parlache)"
   },
   {
-    "word": "zarco",
-    "display": "zarco",
-    "meaning": "Persona de ojos claros, azules o verdes.",
-    "example": "",
-    "region": "Medellín / Antioquia (Parlache)",
-    "source": "Wikcionario (Glosario del parlache)"
+    "word": "picar",
+    "display": "picar",
+    "meaning": "Comer algo ligero entre comidas.",
+    "example": "Traje unas empanaditas para picar mientras está listo el almuerzo.",
+    "region": "Cali / Colombia",
+    "source": "El País (Cali)"
   },
   {
-    "word": "añoñi",
-    "display": "añoñi",
-    "meaning": "Expresión equivalente a '¿que no?' para reafirmar seguridad; también entusiasmado.",
-    "example": "",
-    "region": "Región Caribe (Costeño)",
-    "source": "Noticias Caracol / Wikcionario"
+    "word": "picha",
+    "display": "picha",
+    "meaning": "Prostituto o prostituta; también órgano genital masculino (vulgar).",
+    "example": "En la esquina discutían a gritos y le gritó picha en medio de la pelea.",
+    "region": "Medellín / Colombia",
+    "source": "Wikcionario / Crítica.cl"
   },
   {
-    "word": "barro",
-    "display": "barro",
-    "meaning": "Malo, lamentable o decepcionante.",
-    "example": "¡Ey, barro eso!",
-    "region": "Región Caribe (Costeño)",
-    "source": "Noticias Caracol / DanceFree"
+    "word": "piche",
+    "display": "piche",
+    "meaning": "Secreción ocular o legaña.",
+    "example": "Lávate bien la cara en la mañana para quitarte la piche de los ojos.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario (Colombianismos)"
   },
   {
-    "word": "biche",
-    "display": "biche",
-    "meaning": "En el Caribe: persona vanidosa, vacía o inmadura (fruto verde en Colombia; licor artesanal en el Pacífico).",
-    "example": "El gringo vio arenas blancas, vio mulatas y negras, comió zapote, chontaduro y mango biche.",
-    "region": "Región Caribe / Colombia",
-    "source": "Señal Colombia / Radiónica / DiCol"
+    "word": "picho",
+    "display": "picho",
+    "meaning": "Averiado, podrido o de poco valor; en parlache también lleno o abundante ('picho en plata').",
+    "example": "¡Ese man está picho en plata!",
+    "region": "Colombia / Medellín (Parlache)",
+    "source": "Wikcionario (Colombianismos / Parlache)"
   },
   {
-    "word": "brete",
-    "display": "brete",
-    "meaning": "Fiesta, desorden o bullicio (sinónimo: verguerete).",
-    "example": "Se armó el brete en la casa de Juan con maicena y toda vaina.",
-    "region": "Región Caribe (Costeño)",
-    "source": "Bacánika"
+    "word": "pilas",
+    "display": "pilas",
+    "meaning": "Interjección de alerta ('¡pilas!'); estar atento o despierto ('ponerse las pilas').",
+    "example": "Jovencita no siga ahí acostada, póngase las pilas, haga algo.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario / WikiLengua"
   },
   {
-    "word": "jabao",
-    "display": "jabao",
-    "meaning": "Persona engreída u orgullosa por algo que posee o luce.",
-    "example": "",
-    "region": "Región Caribe (Costeño)",
-    "source": "Radiónica"
+    "word": "pinga",
+    "display": "pinga",
+    "meaning": "Cosa o persona muy pequeña, pizca (en Antioquia); pene en registro vulgar.",
+    "example": "No le dejaron ni una pinga de torta después de la fiesta.",
+    "region": "Antioquia / Colombia",
+    "source": "Diccionario Paisa / Crítica.cl"
   },
   {
-    "word": "mecha",
-    "display": "mecha",
-    "meaning": "En el Caribe, trapero ('pasar la mecha' = trapear); en parlache, ropa.",
-    "example": "",
-    "region": "Región Caribe / Parlache",
-    "source": "Bacánika / Castañeda y Henao"
+    "word": "pingo",
+    "display": "pingo",
+    "meaning": "Tonto, bobo o ingenuo (usado también entre amigos).",
+    "example": "Usted sí es pingo, se dejó robar de frente.",
+    "region": "Santander / Medellín",
+    "source": "Pulzo / Wikcionario"
+  },
+  {
+    "word": "pinta",
+    "display": "pinta",
+    "meaning": "1. Conjunto de ropa o vestimenta elegante. 2. Sujeto o persona atractiva.",
+    "example": "Se puso la pinta.",
+    "region": "Colombia / Medellín / Santander",
+    "source": "Wikcionario / Cómo hablan los santandereanos"
+  },
+  {
+    "word": "pipia",
+    "display": "pipia",
+    "meaning": "Órgano genital masculino.",
+    "example": "El niño pequeño salió corriendo sin ropa enseñando la pipia por todo el patio.",
+    "region": "Región Pacífica",
+    "source": "DanceFree"
+  },
+  {
+    "word": "pisar",
+    "display": "pisar",
+    "meaning": "Marcharse, irse o huir de un lugar (comúnmente pronominal: pisarse).",
+    "example": "Ya se hizo muy tarde, mejor me voy a pisar antes de que pase el último bus.",
+    "region": "Colombia / Medellín / Huila",
+    "source": "Wikcionario / RedHuila"
+  },
+  {
+    "word": "pisco",
+    "display": "pisco",
+    "meaning": "1. Pavo (ave). 2. Individuo o sujeto cualquiera.",
+    "example": "Un pisco extraño preguntó en la portería por el administrador del edificio.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "pisos",
+    "display": "pisos",
+    "meaning": "Zapatos, tenis o calzado.",
+    "example": "Esos pisos están melos.",
+    "region": "Colombia / Medellín / Pacífico",
+    "source": "Wikcionario / Canal Cali TV / Diccionario Colombia"
   },
   {
     "word": "pluma",
     "display": "pluma",
-    "meaning": "En el Caribe, llave o grifo del agua.",
-    "example": "",
-    "region": "Región Caribe (Costeño)",
-    "source": "Bacánika"
+    "meaning": "En el Caribe, llave o grifo del agua; en parlache carcelario, mandamás del patio.",
+    "example": "Cierra bien la pluma del lavadero para que no se desperdicie el agua.",
+    "region": "Región Caribe / Medellín (Parlache)",
+    "source": "Bacánika / Wikcionario"
+  },
+  {
+    "word": "polla",
+    "display": "polla",
+    "meaning": "Muchacha, mujer joven o novia.",
+    "example": "Llegó al concierto acompañado de su polla y se sentaron en primera fila.",
+    "region": "Medellín / Colombia",
+    "source": "Wikcionario / DanceFree"
+  },
+  {
+    "word": "pollo",
+    "display": "pollo",
+    "meaning": "Adolescente, hombre joven o novio.",
+    "example": "Ese pollo apenas está terminando el colegio y ya quiere empezar a trabajar.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "polvo",
+    "display": "polvo",
+    "meaning": "Relación sexual o coito ('echar un polvo').",
+    "example": "Se escaparon temprano de la fiesta para ir a echar un polvo en el apartamento.",
+    "region": "Colombia / Medellín (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "porra",
+    "display": "porra",
+    "meaning": "Cabeza (en los Llanos); en Antioquia, lugar sumamente lejano ('la quinta porra').",
+    "example": "¡Eso queda más allá de la quinta porra!",
+    "region": "Llanos Orientales / Antioquia",
+    "source": "Calameo / Medellín Travel"
+  },
+  {
+    "word": "potro",
+    "display": "potro",
+    "meaning": "Canoa o embarcación fluvial pequeña (champa).",
+    "example": "Amarraron el potro a la orilla del río después de descargar los racimos de plátano.",
+    "region": "Chocó (Pacífico)",
+    "source": "Lenguaje Urbano del Chocó"
+  },
+  {
+    "word": "pucha",
+    "display": "pucha",
+    "meaning": "Medida tradicional para granos hecha con una caja de madera.",
+    "example": "En la plaza vendían el maíz medido por pucha como se hacía antiguamente.",
+    "region": "Antioquia (Paisa)",
+    "source": "Diccionario Paisa"
+  },
+  {
+    "word": "puyar",
+    "display": "puyar",
+    "meaning": "En los Llanos, tener relaciones sexuales; en el Caribe, apurar o pinchar.",
+    "example": "Hay que puyar el paso si queremos alcanzar a llegar antes de que cierren.",
+    "region": "Llanos Orientales / Caribe",
+    "source": "Calameo / Bacánika"
+  },
+  {
+    "word": "rabon",
+    "display": "rabón",
+    "meaning": "Persona de mal genio, airada, antipática o mezquina.",
+    "example": "Está rabón porque no le presté el balón.",
+    "region": "Bogotá / Colombia",
+    "source": "Semana (Bogotálogo) / WikiLengua"
   },
   {
     "word": "rayuo",
@@ -368,187 +1384,347 @@
     "source": "Bacánika"
   },
   {
-    "word": "calao",
-    "display": "calao",
-    "meaning": "Pan tostado y crocante tradicional (calado).",
-    "example": "",
-    "region": "Boyacá (Cundiboyacense)",
-    "source": "Alcaldía de Sutatenza / DiCol"
-  },
-  {
-    "word": "chino",
-    "display": "chino",
-    "meaning": "Niño o muchacho joven.",
-    "example": "Los chinos salieron al parque.",
-    "region": "Altiplano Cundiboyacense / Bogotá",
-    "source": "Wikcionario / Centro Catalina"
-  },
-  {
-    "word": "guiso",
-    "display": "guiso",
-    "meaning": "Persona de mal gusto o que viste de manera vulgar u ordinaria.",
-    "example": "",
-    "region": "Bogotá / Santander",
-    "source": "DanceFree / Cómo hablan los santandereanos"
-  },
-  {
-    "word": "onces",
-    "display": "onces",
-    "meaning": "Merienda tradicional de panes y amasijos (sinónimo de segundillas).",
-    "example": "",
-    "region": "Bogotá / Altiplano Cundiboyacense",
-    "source": "Instituto Caro y Cuervo / RedHuila"
-  },
-  {
-    "word": "pisco",
-    "display": "pisco",
-    "meaning": "1. Pavo (ave). 2. Individuo o sujeto cualquiera.",
-    "example": "",
-    "region": "Boyacá (Cundiboyacense)",
-    "source": "Alcaldía de Sutatenza"
+    "word": "rotar",
+    "display": "rotar",
+    "meaning": "Compartir o prestar algo.",
+    "example": "Cuando termines de leer ese libro, me lo puedes rotar para leerlo yo también.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
   },
   {
     "word": "ruana",
     "display": "ruana",
     "meaning": "Prenda de abrigo tradicional de cuatro puntas usada sobre los hombros en el clima frío andino.",
-    "example": "",
+    "example": "Me puse la ruana de lana porque en la madrugada empezó a caer una helada fuerte.",
     "region": "Altiplano Cundiboyacense (Boyacá)",
     "source": "Pulzo"
   },
   {
-    "word": "turma",
-    "display": "turma",
-    "meaning": "Papa (tubérculo); en plural ('turmas'), testículos de ternero o cordero en gastronomía regional.",
-    "example": "",
-    "region": "Boyacá / Santander",
-    "source": "Descubre Paipa / Alcaldía de Sutatenza"
+    "word": "rumba",
+    "display": "rumba",
+    "meaning": "Fiesta, baile o parranda.",
+    "example": "El viernes se armó tremenda rumba en la casa de Andrés hasta el amanecer.",
+    "region": "Colombia (uso general)",
+    "source": "Teleantioquia / El País (Cali)"
   },
   {
-    "word": "lukas",
-    "display": "lukas",
-    "meaning": "Dinero (equivalente a unidades de mil pesos).",
-    "example": "No tengo lukas pa ir.",
-    "region": "Santander / Valle / Colombia",
-    "source": "Weekend Santander / Diccionario Caleño"
+    "word": "salsa",
+    "display": "salsa",
+    "meaning": "Persona arrogante o que se cree buscapleitos.",
+    "example": "No le hagas caso a ese tipo que siempre llega con actitud de salsa buscando pelea.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
   },
   {
-    "word": "pingo",
-    "display": "pingo",
-    "meaning": "Tonto, bobo o ingenuo (usado también entre amigos).",
-    "example": "Usted sí es pingo, se dejó robar de frente.",
-    "region": "Santander",
-    "source": "Pulzo / Cómo hablan los santandereanos"
-  },
-  {
-    "word": "toche",
-    "display": "toche",
-    "meaning": "Persona falta de inteligencia; también ave canora andina (en Boyacá y Santander).",
-    "example": "",
-    "region": "Santander / Boyacá",
-    "source": "Descubre Paipa / Cómo hablan los santandereanos"
-  },
-  {
-    "word": "nospi",
-    "display": "nospi",
-    "meaning": "Abreviación juvenil caleña de 'nos pillamos' (nos vemos luego).",
-    "example": "",
-    "region": "Cali / Valle del Cauca",
-    "source": "Alcaldía de Cali / Diccionario Caleño"
-  },
-  {
-    "word": "choca",
-    "display": "choca",
-    "meaning": "Reunión comunitaria de amigos y vecinos indígenas o campesinos para realizar trabajos colectivos.",
-    "example": "",
-    "region": "Región Pacífica",
-    "source": "Instituto Caro y Cuervo / Radio Nacional"
-  },
-  {
-    "word": "fules",
-    "display": "fules",
-    "meaning": "Comida o alimentos.",
-    "example": "Vamos a matar los fules.",
+    "word": "samba",
+    "display": "samba",
+    "meaning": "Muenda, paliza o serie de golpes violentos (bambucazos).",
+    "example": "Si sigue molestando a los mayores, le van a dar tremenda samba para que respete.",
     "region": "Región Pacífica",
     "source": "Canal Cali TV"
   },
   {
-    "word": "minga",
-    "display": "minga",
-    "meaning": "Trabajo colectivo o labor realizada en grupo en beneficio común.",
-    "example": "",
-    "region": "Chocó / Región Pacífica / Andina",
-    "source": "Lenguaje Urbano del Chocó / DanceFree"
+    "word": "sizas",
+    "display": "sizas",
+    "meaning": "Forma coloquial de decir 'sí' o afirmar algo (variante: sisas).",
+    "example": "¿Tienes clase en la tarde? - Sizas, parce.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "GetVico / Hablea / DanceFree"
   },
   {
-    "word": "niche",
-    "display": "niche",
-    "meaning": "Persona afrodescendiente o morocha (muy usado en Buenaventura).",
-    "example": "",
-    "region": "Buenaventura / Región Pacífica",
-    "source": "Wikcionario (Colombianismos)"
+    "word": "socio",
+    "display": "socio",
+    "meaning": "Compañero, amigo o cómplice.",
+    "example": "Se aculilló el socio.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
   },
   {
-    "word": "viche",
-    "display": "viche",
-    "meaning": "Bebida alcohólica artesanal extraída de la caña de azúcar en el Pacífico.",
-    "example": "",
-    "region": "Chocó / Región Pacífica",
-    "source": "Chocó 7 Días / Mochileros TV"
+    "word": "sofia",
+    "display": "sofía",
+    "meaning": "Niña inteligente o joven que no suele salir de su casa.",
+    "example": "Mi prima es muy sofía, se la pasa estudiando y casi nunca sale a fiestas.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
   },
   {
-    "word": "ayora",
-    "display": "ayora",
-    "meaning": "Exclamación de rechazo o desconcierto derivada de '¡ay, ¿y ahora?!'.",
-    "example": "",
+    "word": "sopeo",
+    "display": "sopeo",
+    "meaning": "Guiso que queda de la carne guisada.",
+    "example": "Con el arroz blanco me encanta mezclar el sopeo que queda en el fondo de la olla.",
+    "region": "Región Caribe (Costeño)",
+    "source": "Radiónica"
+  },
+  {
+    "word": "sopon",
+    "display": "sopón",
+    "meaning": "Barrigón, mal encarado o de cara grande.",
+    "example": "Ese vecino tiene cara de sopón y nunca le responde el saludo a nadie.",
     "region": "Nariño (Pastuso)",
     "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "suizo",
+    "display": "suizo",
+    "meaning": "Kamikaze o atacante suicida.",
+    "example": "Se lanzó en bicicleta por esa bajada tan empinada como todo un suizo.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "sungo",
+    "display": "sungo",
+    "meaning": "Corazón.",
+    "example": "Me dio un susto tan grande que sentí que se me salía el sungo del pecho.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "supia",
+    "display": "supia",
+    "meaning": "Hongo o germen espeso que fermenta el guarapo y se asienta en el fondo.",
+    "example": "Dejaron la supia en el fondo del barril para preparar la siguiente tanda de guarapo.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
   },
   {
     "word": "taita",
     "display": "taita",
     "meaning": "Papá o padre (voz de origen indígena usada en el sur andino).",
-    "example": "",
+    "example": "Mi taita nos enseñó desde niños a trabajar la tierra con respeto y paciencia.",
     "region": "Nariño (Pastuso)",
     "source": "Pasto Tierra Cultural"
   },
   {
-    "word": "apiar",
-    "display": "apiar",
-    "meaning": "Bajar o descender de algo.",
-    "example": "",
-    "region": "Huila (Opita)",
-    "source": "RedHuila"
+    "word": "tambo",
+    "display": "tambo",
+    "meaning": "Albergue o casa tradicional de vivienda.",
+    "example": "Construyeron el tambo sobre pilotes altos para protegerse de las crecientes del río.",
+    "region": "Chocó (Pacífico)",
+    "source": "Lenguaje Urbano del Chocó"
   },
   {
-    "word": "guipa",
-    "display": "güipa",
-    "meaning": "Niño o niña en el Huila.",
-    "example": "",
-    "region": "Huila (Opita)",
+    "word": "techo",
+    "display": "techo",
+    "meaning": "Gorra o cachucha.",
+    "example": "Ponte el techo porque el sol del mediodía está pegando muy fuerte.",
+    "region": "Región Pacífica",
+    "source": "Señal Colombia"
+  },
+  {
+    "word": "tenaz",
+    "display": "tenaz",
+    "meaning": "Difícil, complejo o impresionante.",
+    "example": "El examen de cálculo estuvo muy tenaz, casi nadie alcanzó a terminarlo.",
+    "region": "Colombia (uso general)",
     "source": "DanceFree"
   },
   {
-    "word": "jigra",
-    "display": "jigra",
-    "meaning": "Bolso o mochila tejida tradicional.",
-    "example": "",
+    "word": "tinto",
+    "display": "tinto",
+    "meaning": "Café negro o americano sin leche.",
+    "example": "El hombre entró a la cafetería, preguntó por el valor de un pintado al notar que no le alcanzaba, entonces preguntó por un tinto.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo / Hablea / Wikcionario"
+  },
+  {
+    "word": "tirar",
+    "display": "tirar",
+    "meaning": "Tener relaciones sexuales.",
+    "example": "Se fueron solos para la finca el fin de semana con ganas de tirar.",
+    "region": "Colombia (uso general)",
+    "source": "Wikcionario / Crítica.cl"
+  },
+  {
+    "word": "tisar",
+    "display": "tisar",
+    "meaning": "Dañar una tela sacándole motas.",
+    "example": "No laves ese saco en la lavadora porque se va a tisar toda la lana.",
+    "region": "Nariño (Pastuso)",
+    "source": "Pasto Tierra Cultural"
+  },
+  {
+    "word": "toche",
+    "display": "toche",
+    "meaning": "Persona falta de inteligencia; también ave canora andina (en Boyacá y Santander).",
+    "example": "No sea tan toche, ¿cómo se le ocurre dejar las llaves pegadas en la puerta?",
+    "region": "Santander / Boyacá",
+    "source": "Descubre Paipa / Cómo hablan los santandereanos"
+  },
+  {
+    "word": "tolis",
+    "display": "tolis",
+    "meaning": "Expresión equivalente a 'listo' (por inversión silábica) para dar algo por hecho.",
+    "example": "Ya dejé todo organizado para el viaje de mañana, ¡tolis!",
+    "region": "Cali / Valle del Cauca",
+    "source": "Radiónica (Diccionario Caleño)"
+  },
+  {
+    "word": "tomba",
+    "display": "tomba",
+    "meaning": "La policía en general o un grupo de patrulleros.",
+    "example": "Apenas escucharon las sirenas de la tomba, salieron corriendo por el callejón.",
+    "region": "Medellín / Colombia (Parlache)",
+    "source": "Wikcionario / Instituto Caro y Cuervo"
+  },
+  {
+    "word": "tombo",
+    "display": "tombo",
+    "meaning": "Agente de policía.",
+    "example": "Cuidado que por ahí están los tombos.",
+    "region": "Medellín / Colombia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "topar",
+    "display": "topar",
+    "meaning": "Encontrar algo o alguien sin haberlo planeado.",
+    "example": "Ayer salí a hacer una vuelta al centro y me fui a topar con un viejo amigo.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Boyacá Radio"
+  },
+  {
+    "word": "totes",
+    "display": "totes",
+    "meaning": "Golpes o pelea ('darse los totes'); también pólvora explosiva.",
+    "example": "Vamos a darnos los totes.",
+    "region": "Medellín / Cali",
+    "source": "Wikcionario / El País (Cali)"
+  },
+  {
+    "word": "toyos",
+    "display": "toyos",
+    "meaning": "Los oídos.",
+    "example": "Me duelen los toyos.",
+    "region": "Boyacá (Cundiboyacense)",
+    "source": "Alcaldía de Sutatenza"
+  },
+  {
+    "word": "traga",
+    "display": "traga",
+    "meaning": "Atracción amorosa muy fuerte o persona de quien se está enamorado.",
+    "example": "Anda distraído todo el día porque tiene una traga maluca por su compañera de clase.",
+    "region": "Colombia / Medellín (Parlache)",
+    "source": "Wikcionario / DanceFree"
+  },
+  {
+    "word": "tucos",
+    "display": "tucos",
+    "meaning": "Pantalones cortos a la rodilla utilizados para el trabajo de campo.",
+    "example": "Se puso sus tucos viejos para entrar a trabajar en el barrizal del potrero.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "turma",
+    "display": "turma",
+    "meaning": "Papa (tubérculo); en plural ('turmas'), testículos de ternero o cordero en gastronomía regional.",
+    "example": "Hoy preparamos un caldo bien caliente con turma amarilla y cilantro fresco.",
+    "region": "Boyacá / Santander",
+    "source": "Descubre Paipa / Alcaldía de Sutatenza"
+  },
+  {
+    "word": "tusta",
+    "display": "tusta",
+    "meaning": "Cabeza.",
+    "example": "Se pegó tremendo golpe en la tusta contra el marco bajo de la puerta.",
+    "region": "Santander",
+    "source": "Cómo hablan los santandereanos"
+  },
+  {
+    "word": "tuste",
+    "display": "tuste",
+    "meaning": "La frente.",
+    "example": "Le salió un chichón en todo el tuste después de chocarse jugando.",
     "region": "Huila (Opita)",
     "source": "RedHuila"
   },
   {
-    "word": "andon",
-    "display": "andón",
-    "meaning": "Caballo de paso suave y regular.",
-    "example": "",
-    "region": "Llanos Orientales (Orinoquía)",
-    "source": "Señal Colombia / Diccionario Criollo"
+    "word": "vaina",
+    "display": "vaina",
+    "meaning": "Palabra comodín para referirse a cualquier cosa, asunto, problema o situación.",
+    "example": "Pásame esa vaina que se me cayó.",
+    "region": "Colombia (uso general)",
+    "source": "Instituto Caro y Cuervo / LanguageTool"
   },
   {
-    "word": "ambil",
-    "display": "ambil",
-    "meaning": "Líquido espeso que se obtiene de la mezcla del tabaco y la sal de monte.",
-    "example": "",
-    "region": "Amazonia colombiana",
-    "source": "Instituto Sinchi (Glosario amazónico)"
+    "word": "varea",
+    "display": "varea",
+    "meaning": "Badea (fruta).",
+    "example": "Preparamos un jugo bien frío de varea con leche para refrescarnos en la tarde.",
+    "region": "Chocó (Pacífico)",
+    "source": "Lenguaje Urbano del Chocó"
+  },
+  {
+    "word": "verga",
+    "display": "verga",
+    "meaning": "Pene (vulgar); también usada como exclamación juvenil.",
+    "example": "¡Qué verga!, se me quedó el cargador del celular en la oficina.",
+    "region": "Colombia (uso general)",
+    "source": "Crítica.cl / Revista de Lexicografía"
+  },
+  {
+    "word": "viche",
+    "display": "viche",
+    "meaning": "Bebida alcohólica artesanal extraída de la caña de azúcar en el Pacífico.",
+    "example": "En el festival probamos un trago de viche curado con hierbas tradicionales del Pacífico.",
+    "region": "Chocó / Región Pacífica",
+    "source": "Chocó 7 Días / Mochileros TV"
+  },
+  {
+    "word": "vieja",
+    "display": "vieja",
+    "meaning": "Mujer, muchacha o novia (coloquial).",
+    "example": "¡Qué vieja tan mañé!",
+    "region": "Colombia / Medellín",
+    "source": "GetVico / DanceFree"
+  },
+  {
+    "word": "yelao",
+    "display": "yelao",
+    "meaning": "Helada, frío intenso.",
+    "example": "El yelao de esta madrugada quemó parte de los pastos en la sabana.",
+    "region": "Llanos Orientales (Orinoquía)",
+    "source": "Calameo (Léxico llanero)"
+  },
+  {
+    "word": "yotas",
+    "display": "yotas",
+    "meaning": "Pronombre coloquial para referirse a uno mismo ('yo').",
+    "example": "Tranquilo que yotas me encargo de llevar las bebidas para la reunión.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "zarco",
+    "display": "zarco",
+    "meaning": "Persona de ojos claros, azules o verdes.",
+    "example": "El niño heredó los ojos claros de su abuelo, salió bien zarco.",
+    "region": "Medellín / Antioquia (Parlache)",
+    "source": "Wikcionario (Glosario del parlache)"
+  },
+  {
+    "word": "zonas",
+    "display": "zonas",
+    "meaning": "Voz de alerta para mantenerse cauto en medio de una situación riesgosa ('¡zonas!').",
+    "example": "¡Zonas!, que por esa esquina vienen unos tipos con muy mala pinta.",
+    "region": "Bogotá (Cundiboyacense)",
+    "source": "Semana (Bogotálogo)"
+  },
+  {
+    "word": "zunga",
+    "display": "zunga",
+    "meaning": "Mujer fácil o prostituta (despectivo).",
+    "example": "En la discusión le gritó zunga frente a todos los vecinos de la cuadra.",
+    "region": "Medellín / Colombia",
+    "source": "Wikcionario / Crítica.cl"
+  },
+  {
+    "word": "zunco",
+    "display": "zunco",
+    "meaning": "Fruto en proceso de maduración.",
+    "example": "No arranques ese mango todavía porque está zunco y sabe muy ácido.",
+    "region": "Huila (Opita)",
+    "source": "RedHuila"
   }
 ]

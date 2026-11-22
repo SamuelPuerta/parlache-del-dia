@@ -14,6 +14,6 @@ Registro de decisiones y supuestos. Se añade una entrada cada vez que el plan e
 | D8 | El origen `api` de CloudFront se añade en la fase 2 junto con `apigw.tf` | La API Gateway no existe todavía en la fase 1. |
 | D9 | El frontend se sube con `aws s3 sync` y no con recursos `aws_s3_object` | Evita conflictos entre el estado de Terraform y `sync --delete`. |
 | D10 | Las pruebas de lógica pura no dependen de moto ni boto3 | Se pueden ejecutar en cualquier entorno; las de flujo con DynamoDB usarán moto. |
-| D11 | En `arepa` se quitó la tercera acepción (vulgar) al generar `words.json`; el CSV original no se modificó | El plan pide evitar vulgaridades; el significado se muestra a todo el público. |
-| D12 | El ejemplo "No especificado en la fuente" del CSV pasa a cadena vacía en `words.json`; el frontend oculta el ejemplo si viene vacío | No se inventan ejemplos y no se muestra texto de relleno al jugador. |
-| D13 | `words.json` se genera con `scripts/csv_to_words.py` desde `backend/data/colombianismos_5_letras.csv` | El CSV es la fuente editable; el script valida con la misma regla que usará el importador. |
+| D11 | Se permiten insultos y palabras despectivas o vulgares en `words.json`, sin censurar significados | Decisión del equipo (reemplaza la regla del plan 6.5 de evitar vulgaridades). Conviene un aviso de contenido en el frontend. |
+| D12 | Si el CSV trae "No especificado en la fuente" como ejemplo, `words.json` lo deja vacío y el frontend oculta el ejemplo | No se inventan ejemplos ni se muestra texto de relleno. La v2 del CSV ya trae ejemplo en todas. |
+| D13 | `words.json` (216 palabras de la v2 del CSV) se genera con `scripts/csv_to_words.py` desde `backend/data/colombianismos_5_letras.csv` | El CSV es la fuente editable; el script valida con la misma regla que usará el importador. |

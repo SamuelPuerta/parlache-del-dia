@@ -12,10 +12,6 @@ from common.game import normalize  # noqa: E402
 from common.words import validate_words  # noqa: E402
 
 PLACEHOLDER = "No especificado en la fuente"
-# Ajustes de contenido (plan 6.5: evitar vulgaridades). Ver docs/DECISIONES.md D11.
-MEANING_FIXES = {
-    "arepa": "1. Tortilla típica de maíz. 2. Suerte o fortuna casual.",
-}
 
 
 def main() -> int:
@@ -30,7 +26,7 @@ def main() -> int:
             items.append({
                 "word": word,
                 "display": display,
-                "meaning": MEANING_FIXES.get(word, r["significado"].strip()),
+                "meaning": r["significado"].strip(),
                 "example": "" if example == PLACEHOLDER else example,
                 "region": r["región"].strip(),
                 "source": r["fuente"].strip(),
