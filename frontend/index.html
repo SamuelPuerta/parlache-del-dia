@@ -102,19 +102,32 @@
     <button class="close" type="button" data-close aria-label="Cerrar">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
     </button>
-    <h2 id="h-end"></h2>
-    <p class="reveal-word" id="end-word"></p>
-    <p id="end-meaning"></p>
-    <p class="example" id="end-example"></p>
-    <p class="region" id="end-region"></p>
+
+    <div class="end-hero">
+      <h2 id="h-end"></h2>
+      <p class="reveal-word" id="end-word"></p>
+      <p class="end-meaning" id="end-meaning"></p>
+    </div>
+
+    <figure class="end-quote" id="end-quote">
+      <blockquote class="example" id="end-example"></blockquote>
+      <figcaption class="region" id="end-region"></figcaption>
+    </figure>
+
     <dl class="stats">
       <div><dt>Racha</dt><dd id="end-streak">0</dd></div>
       <div><dt>Mejor racha</dt><dd id="end-best">0</dd></div>
     </dl>
     <p class="next" id="end-next"></p>
     <div class="btns">
-      <button class="btn primary" id="btn-share" type="button">Compartir</button>
-      <button class="btn" id="btn-end-ranking" type="button">Ver ranking</button>
+      <button class="btn primary" id="btn-share" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M5 13v6a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-6"/></svg>
+        Compartir
+      </button>
+      <button class="btn" id="btn-end-ranking" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V13M10 20V5M16 20V10M22 20H2"/></svg>
+        Ver ranking
+      </button>
     </div>
   </dialog>
 

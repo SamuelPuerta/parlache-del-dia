@@ -196,9 +196,28 @@ async function copyText(text) {
   }
 }
 
+function shareUrl() {
+  try { return new URL(".", location.href).href; }
+  catch { return `${location.origin}${location.pathname}`; }
+}
+
 async function share() {
-  const text = buildShareText(state.puzzle, state.guesses, state.status === "won");
-  ui.toast((await copyText(text)) ? "Resultado copiado" : "No se pudo copiar");
+  const base = buildShareText(state.puzzle, state.guesses, state.status === "won");
+  const text = state.player.alias ? `${base}\nAlias en el ranking: ${state.player.alias}` : base;
+  const url = shareUrl();
+
+  // En móviles abre la hoja nativa con resultado y enlace; si no, copia ambos.
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: "Parlache del día", text, url });
+      return;
+    } catch (e) {
+      if (e && e.name === "AbortError") return;
+    }
+  }
+
+  const payload = `${text}\n\nJuega en ${url}`;
+  ui.toast((await copyText(payload)) ? "Resultado y enlace copiados" : "No se pudo copiar");
 }
 
 function toggleContrast() {

@@ -187,13 +187,24 @@ export function isDialogOpen() {
 }
 
 export function renderEnd({ won, reveal, player }) {
+  const dlg = $("dlg-end");
+  dlg.classList.toggle("end-won", won);
+  dlg.classList.toggle("end-lost", !won);
+
   $("h-end").textContent = won ? "¡Ese es el parlache!" : "Hoy no fue";
   $("end-word").textContent = reveal.word;
   $("end-meaning").textContent = reveal.meaning;
+
   const ex = $("end-example");
   ex.textContent = reveal.example ? `“${reveal.example}”` : "";
   ex.hidden = !reveal.example;
-  $("end-region").textContent = reveal.region || "";
+
+  const region = $("end-region");
+  region.textContent = reveal.region ? `Se dice en ${reveal.region}` : "";
+  region.hidden = !reveal.region;
+
+  $("end-quote").hidden = !reveal.example && !reveal.region;
+
   $("end-streak").textContent = player.current_streak;
   $("end-best").textContent = player.best_streak;
 }
@@ -232,6 +243,70 @@ export function renderRankingState(kind) {
   box.replaceChildren(el);
 }
 
+function rankValue(entry, type) {
+  return type === "daily"
+    ? `${entry.attempts} ${entry.attempts === 1 ? "intento" : "intentos"}`
+    : `${entry.streak} ${entry.streak === 1 ? "día" : "días"}`;
+}
+
+function podiumEntry(entry, place, type, myAlias) {
+  const item = document.createElement("div");
+  item.className = `podium-item p${place}`;
+  item.style.setProperty("--i", place - 1);
+  if (entry.alias === myAlias) item.classList.add("me");
+
+  const rank = document.createElement("span");
+  rank.className = "podium-rank";
+  rank.textContent = place;
+
+  const who = document.createElement("span");
+  who.className = "podium-who";
+  const name = document.createElement("span");
+  name.className = "name";
+  name.textContent = entry.alias;
+  who.append(name);
+  if (entry.alias === myAlias) {
+    const you = document.createElement("span");
+    you.className = "you";
+    you.textContent = "Tú";
+    who.append(you);
+  }
+
+  const val = document.createElement("span");
+  val.className = "podium-val";
+  val.textContent = rankValue(entry, type);
+
+  item.append(rank, who, val);
+  return item;
+}
+
+function rankRow(entry, index, type, myAlias) {
+  const li = document.createElement("li");
+  li.style.setProperty("--i", index);
+  if (entry.alias === myAlias) li.classList.add("me");
+
+  const pos = document.createElement("span");
+  pos.className = "pos";
+  pos.textContent = entry.rank;
+
+  const who = document.createElement("span");
+  who.className = "who";
+  who.textContent = entry.alias;
+  if (entry.alias === myAlias) {
+    const you = document.createElement("span");
+    you.className = "you";
+    you.textContent = "Tú";
+    who.append(you);
+  }
+
+  const val = document.createElement("span");
+  val.className = "val";
+  val.textContent = rankValue(entry, type);
+
+  li.append(pos, who, val);
+  return li;
+}
+
 export function renderRanking(data, myAlias) {
   const box = $("rank-list");
   if (!data.entries.length) {
@@ -243,33 +318,30 @@ export function renderRanking(data, myAlias) {
     box.replaceChildren(p);
     return;
   }
-  const ol = document.createElement("ol");
-  ol.className = "rank";
-  data.entries.forEach((e, i) => {
-    const li = document.createElement("li");
-    li.style.setProperty("--i", i);
-    const pos = document.createElement("span");
-    pos.className = "pos";
-    pos.textContent = e.rank;
-    const who = document.createElement("span");
-    who.className = "who";
-    who.textContent = e.alias;
-    if (e.alias === myAlias) {
-      li.classList.add("me");
-      const you = document.createElement("span");
-      you.className = "you";
-      you.textContent = "Tú";
-      who.append(you);
-    }
-    const val = document.createElement("span");
-    val.className = "val";
-    val.textContent = data.type === "daily"
-      ? `${e.attempts} ${e.attempts === 1 ? "intento" : "intentos"}`
-      : `${e.streak} ${e.streak === 1 ? "día" : "días"}`;
-    li.append(pos, who, val);
-    ol.append(li);
+
+  const frag = document.createDocumentFragment();
+
+  const podium = document.createElement("div");
+  podium.className = "podium";
+  data.entries.slice(0, 3).forEach((e, i) => {
+    podium.append(podiumEntry(e, i + 1, data.type, myAlias));
   });
-  box.replaceChildren(ol);
+  frag.append(podium);
+
+  const rest = data.entries.slice(3);
+  if (rest.length) {
+    const caption = document.createElement("p");
+    caption.className = "rank-caption";
+    caption.textContent = "Resto de la tabla";
+    frag.append(caption);
+
+    const ol = document.createElement("ol");
+    ol.className = "rank";
+    rest.forEach((e, i) => ol.append(rankRow(e, i, data.type, myAlias)));
+    frag.append(ol);
+  }
+
+  box.replaceChildren(frag);
 }
 
 export function setRankingTab(type) {
