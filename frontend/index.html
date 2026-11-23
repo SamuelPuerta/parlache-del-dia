@@ -36,6 +36,7 @@
     </header>
 
     <main class="stage">
+      <p class="intro">Adivina el <strong>colombianismo</strong> de cinco letras del día. Tienes seis intentos y cada color te dice qué tan cerca estás.</p>
       <div class="board" id="board" role="grid" aria-label="Intentos de hoy"></div>
       <button class="pill" id="btn-result" type="button" hidden>Ver resultado de hoy</button>
       <div class="offline" id="offline" role="alert" hidden>
@@ -48,6 +49,8 @@
     <footer class="foot">
       <svg class="flag" viewBox="0 0 24 16" role="img" aria-label="Bandera de Colombia"><rect width="24" height="8" fill="#FCD116"/><rect y="8" width="24" height="4" fill="#003893"/><rect y="12" width="24" height="4" fill="#CE1126"/></svg>
       <span>Hecho en Colombia</span>
+      <span class="sep" aria-hidden="true">·</span>
+      <a class="credit" href="https://samuel-puerta.vercel.app/" target="_blank" rel="noopener noreferrer">By Samuel Puerta</a>
     </footer>
   </div>
 
@@ -57,19 +60,42 @@
     <button class="close" type="button" data-close aria-label="Cerrar">
       <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
     </button>
-    <h2 id="h-help">Cómo jugar</h2>
-    <p>Adivina la palabra colombiana de hoy en 6 intentos. Cada intento debe tener 5 letras.</p>
-    <p>Después de cada intento, el color de las casillas te dice qué tan cerca estás.</p>
-    <div class="demo" aria-hidden="true">
-      <div class="row"><span class="tile t-correct">P</span><span class="tile">A</span><span class="tile">R</span><span class="tile">C</span><span class="tile">E</span></div>
-      <p>La P está en la palabra y en su lugar.</p>
-      <div class="row"><span class="tile">G</span><span class="tile t-present">U</span><span class="tile">A</span><span class="tile">R</span><span class="tile">O</span></div>
-      <p>La U está en la palabra, pero en otro lugar.</p>
-      <div class="row"><span class="tile">C</span><span class="tile">U</span><span class="tile">C</span><span class="tile t-absent">H</span><span class="tile">O</span></div>
-      <p>La H no está en la palabra.</p>
+
+    <div class="help-hero">
+      <p class="help-kicker">Cómo jugar</p>
+      <h2 id="h-help">Bienvenido a Parlache del día</h2>
+      <p class="help-lead">Un colombianismo de cinco letras, seis intentos y una palabra nueva cada día. ¿Te le mides?</p>
     </div>
-    <p>Las tildes no cuentan, la Ñ sí. Hay una palabra nueva cada día a las 12 de la noche, hora de Colombia.</p>
-    <p class="note">El parlache es lenguaje de calle: algunas palabras son groserías o insultos y se explican tal como se usan.</p>
+
+    <p class="help-body">Escribe una palabra de 5 letras y pulsa <strong>Enviar</strong>. Después de cada intento, el color de las casillas te dice qué tan cerca estás de la respuesta.</p>
+
+    <div class="demo">
+      <div class="demo-row">
+        <div class="row" aria-hidden="true"><span class="tile t-correct">P</span><span class="tile">A</span><span class="tile">R</span><span class="tile">C</span><span class="tile">E</span></div>
+        <p>La P está en la palabra y en su lugar.</p>
+      </div>
+      <div class="demo-row">
+        <div class="row" aria-hidden="true"><span class="tile">G</span><span class="tile t-present">U</span><span class="tile">A</span><span class="tile">R</span><span class="tile">O</span></div>
+        <p>La U está en la palabra, pero en otro lugar.</p>
+      </div>
+      <div class="demo-row">
+        <div class="row" aria-hidden="true"><span class="tile">C</span><span class="tile">U</span><span class="tile">C</span><span class="tile t-absent">H</span><span class="tile">O</span></div>
+        <p>La H no está en la palabra.</p>
+      </div>
+    </div>
+
+    <div class="help-facts">
+      <div class="fact">
+        <strong>Tildes y Ñ</strong>
+        <span>Las tildes no cuentan; la Ñ sí.</span>
+      </div>
+      <div class="fact">
+        <strong>Cada medianoche</strong>
+        <span>Palabra nueva a las 12 de la noche, hora de Colombia.</span>
+      </div>
+    </div>
+
+    <p class="note help-note">El parlache es lenguaje de calle: algunas palabras son groserías o insultos y se explican tal como se usan.</p>
   </dialog>
 
   <dialog id="dlg-end" aria-labelledby="h-end">
