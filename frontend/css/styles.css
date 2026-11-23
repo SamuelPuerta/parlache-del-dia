@@ -482,6 +482,7 @@ dialog .note { font-size: .85rem; }
 .podium-item.p1 .podium-rank { width: 32px; height: 32px; font-size: .9rem; background: linear-gradient(160deg, #ffe89b, #e8b02c); }
 .podium-item.p2 .podium-rank { background: linear-gradient(160deg, #f2f8f5, #b9c9c2); }
 .podium-item.p3 .podium-rank { background: linear-gradient(160deg, #f2c69f, #c07a45); }
+.podium-you { justify-self: center; padding: 0 7px; font-size: .62rem; line-height: 1.4; }
 .podium-who {
   display: flex; align-items: center; justify-content: center; gap: 4px;
   max-width: 100%;

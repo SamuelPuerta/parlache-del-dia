@@ -265,18 +265,19 @@ function podiumEntry(entry, place, type, myAlias) {
   name.className = "name";
   name.textContent = entry.alias;
   who.append(name);
-  if (entry.alias === myAlias) {
-    const you = document.createElement("span");
-    you.className = "you";
-    you.textContent = "Tú";
-    who.append(you);
-  }
 
   const val = document.createElement("span");
   val.className = "podium-val";
   val.textContent = rankValue(entry, type);
 
-  item.append(rank, who, val);
+  item.append(rank);
+  if (entry.alias === myAlias) {
+    const you = document.createElement("span");
+    you.className = "you podium-you";
+    you.textContent = "Tú";
+    item.append(you);
+  }
+  item.append(who, val);
   return item;
 }
 
