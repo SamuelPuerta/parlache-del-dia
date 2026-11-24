@@ -1,5 +1,3 @@
-# sns_topic_arn se añade en la fase 5.
-
 output "cloudfront_domain" {
   value = aws_cloudfront_distribution.main.domain_name
 }
@@ -23,4 +21,14 @@ output "api_endpoint" {
 
 output "picker_function_name" {
   value = aws_lambda_function.fn["picker"].function_name
+}
+
+output "sns_topic_arn" {
+  description = "Tópico SNS de las alarmas (confirmar la suscripción del correo)."
+  value       = aws_sns_topic.alerts.arn
+}
+
+output "dashboard_url" {
+  description = "Dashboard de CloudWatch."
+  value       = "https://${var.region}.console.aws.amazon.com/cloudwatch/home?region=${var.region}#dashboards:name=${aws_cloudwatch_dashboard.main.dashboard_name}"
 }
