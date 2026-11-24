@@ -1,5 +1,5 @@
 # Un rol por funcion con politica en linea de minimo privilegio (sin "*").
-# El rol de la EC2 se crea junto con ec2.tf en la fase 5.
+# El rol de la EC2 (generador de carga) está al final de este archivo.
 
 locals {
   tables = {
@@ -119,4 +119,33 @@ resource "aws_iam_role_policy" "scheduler" {
   name   = "parlache-scheduler-policy"
   role   = aws_iam_role.scheduler.id
   policy = data.aws_iam_policy_document.scheduler.json
+}
+
+# ---------- Rol de la EC2 (generador de carga) ----------
+# Solo SSM Session Manager y Run Command, con la política administrada por AWS.
+# No tiene permisos sobre DynamoDB, S3 ni Lambda: k6 solo golpea la URL pública de CloudFront.
+data "aws_iam_policy_document" "loadgen_assume" {
+  statement {
+    actions = ["sts:AssumeRole"]
+
+    principals {
+      type        = "Service"
+      identifiers = ["ec2.amazonaws.com"]
+    }
+  }
+}
+
+resource "aws_iam_role" "loadgen" {
+  name               = "parlache-loadgen-role"
+  assume_role_policy = data.aws_iam_policy_document.loadgen_assume.json
+}
+
+resource "aws_iam_role_policy_attachment" "loadgen_ssm" {
+  role       = aws_iam_role.loadgen.name
+  policy_arn = "arn:aws:iam::aws:policy/AmazonSSMManagedInstanceCore"
+}
+
+resource "aws_iam_instance_profile" "loadgen" {
+  name = "parlache-loadgen"
+  role = aws_iam_role.loadgen.name
 }

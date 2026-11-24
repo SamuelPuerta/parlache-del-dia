@@ -32,3 +32,8 @@ output "dashboard_url" {
   description = "Dashboard de CloudWatch."
   value       = "https://${var.region}.console.aws.amazon.com/cloudwatch/home?region=${var.region}#dashboards:name=${aws_cloudwatch_dashboard.main.dashboard_name}"
 }
+
+output "loadgen_instance_id" {
+  description = "ID de la EC2 generadora de carga (la usa scripts/run-loadtest.sh)."
+  value       = aws_instance.loadgen.id
+}
