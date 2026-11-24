@@ -47,7 +47,7 @@ backend/    Lambdas en Python 3.12 y sus pruebas
 frontend/   HTML + CSS + JS puro, sin build
 infra/      Terraform (us-east-1)
 loadtest/   Script de carga con k6
-scripts/    Despliegue del frontend, importación de palabras y servidor local
+scripts/    Despliegue del frontend, importación de palabras, servidor local y prueba de carga
 tests/      Pruebas de la lógica del frontend
 docs/       Decisiones, palabras pendientes, diagrama y capturas
 ```
@@ -88,3 +88,14 @@ cd ../..
 ```
 
 La dirección del juego es el dominio `*.cloudfront.net` que muestra `terraform output cloudfront_domain`.
+
+## Observabilidad y prueba de carga
+
+`monitoring.tf` crea el tópico SNS `parlache-alerts`, 5 alarmas (errores de `picker` y `guess`, latencia p95 de `guess`, errores 5xx de la API y mensajes en la DLQ del Scheduler), el dashboard `parlache` y un Budget mensual. Tras el primer `apply`, confirma la suscripción en el correo de `alert_email`; sin eso no llegan las alertas.
+
+```bash
+terraform output dashboard_url     # enlace al dashboard
+./scripts/run-loadtest.sh          # enciende la EC2, corre k6 (20 a 50 usuarios, 2 min) y la detiene
+```
+
+La EC2 `parlache-loadgen` queda detenida y sin puerto 22; se opera solo por SSM.
