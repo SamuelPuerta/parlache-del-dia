@@ -31,3 +31,11 @@ Registro de decisiones y supuestos. Se añade una entrada cada vez que el plan e
 | D25 | `scripts/dev_server.py` sirve el frontend y reutiliza `common/logic.py` con el almacén en memoria de las pruebas | Permite jugar y depurar el frontend sin desplegar. No se usa en producción. |
 | D26 | Las pruebas del frontend viven en `tests/frontend/`, fuera de `frontend/` | `aws s3 sync frontend/` no las sube al bucket. |
 | D27 | Se versiona `infra/terraform/.terraform.lock.hcl` | Fija las versiones de los proveedores para los tres integrantes. |
+| D28 | El tópico SNS `parlache-alerts` no usa cifrado con la llave `aws/sns` | La política de esa llave no permite publicar a CloudWatch Alarms; con ella las alarmas no llegarían al correo. |
+| D29 | Todas las alarmas tienen `ok_actions` hacia el mismo tópico | Queda evidencia del ciclo completo ALARM → OK por correo. |
+| D30 | El Budget tiene dos avisos al 80 %: pronóstico y gasto real | El pronóstico necesita varios días de consumo para activarse; el aviso sobre gasto real cubre ese hueco. |
+| D31 | El dashboard incluye CloudFront (peticiones y tasa de error) además de lo pedido en 9.1 | Muestra el borde; sus métricas existen solo en us-east-1, la misma región del proyecto. |
+| D32 | `k6-script.js` genera el UUID y las palabras sin librerías remotas | La EC2 no necesita descargar `jslib.k6.io`; el script es autocontenido. |
+| D33 | La instancia `loadgen` ignora cambios de AMI (`ignore_changes = [ami]`) | La AMI "latest" de Amazon Linux 2023 cambia con el tiempo; sin esto, un `terraform apply` posterior reemplazaría la instancia. |
+| D34 | `scripts/run-loadtest.sh` envía `k6-script.js` por SSM Run Command (en base64) y detiene la EC2 al terminar, incluso si falla | La EC2 no necesita permisos sobre S3 ni acceso a un repositorio, y nunca queda encendida por olvido. |
+| D35 | El rol de la EC2 solo tiene `AmazonSSMManagedInstanceCore`, y la instancia usa IPv4 pública, IMDSv2 obligatorio y disco cifrado | Sin NAT, la IP pública es la salida a SSM y a CloudFront; el security group no tiene ingreso, así que la IP no es alcanzable desde fuera. |
